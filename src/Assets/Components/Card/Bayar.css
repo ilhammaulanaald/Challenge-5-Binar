@@ -1,0 +1,11 @@
+.pembayarankartu {
+    width: 405px;
+    min-height: 250px;
+}
+
+.txttermasuk {
+    color: LimeGreen;
+    margin-left: 260px;
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
